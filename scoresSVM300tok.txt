@@ -1,0 +1,4 @@
+Precision = 46.23%
+Recall = 68.66%
+Balanced F-score = 55.26%
+Accuracy = 85.10%
